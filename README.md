@@ -52,7 +52,6 @@ The downstream classifier uses the Kaggle dataset:
 ```text
 ademboukhris/cars-body-type-cropped
 ```
-It can be directly downloaded from following link: https://drive.google.com/drive/folders/1uTvPpgY2wWG_8544Ij8-5SVAHCXVLq2a?usp=sharing
 
 The classmodel experiment compares:
 
@@ -92,6 +91,8 @@ Convertible/
 This folder is used as the GAN training set. It is not included in the GitHub repository on purpose. The folder contains image data, and committing the full dataset would make the repository unnecessarily large. The project brief also asks for a clean repository without large binaries.
 
 If this folder is missing, create it locally and place real Convertible training images inside it. A practical source is the Convertible class from the Kaggle Cars Body Type dataset:
+
+It can be directly downloaded from following link: https://drive.google.com/drive/folders/1uTvPpgY2wWG_8544Ij8-5SVAHCXVLq2a?usp=sharing
 
 ```text
 Cars_Body_Type/train/Convertible/
