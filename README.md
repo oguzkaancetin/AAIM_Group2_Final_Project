@@ -52,6 +52,7 @@ The downstream classifier uses the Kaggle dataset:
 ```text
 ademboukhris/cars-body-type-cropped
 ```
+It can be directly downloaded from following link: https://drive.google.com/drive/folders/1uTvPpgY2wWG_8544Ij8-5SVAHCXVLq2a?usp=sharing
 
 The classmodel experiment compares:
 
