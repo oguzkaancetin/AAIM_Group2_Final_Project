@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Local datasets
+Convertible/
+
+# Generated GAN outputs and large binaries
+convertible_outputs_wgan_gp_128x64/checkpoints/
+convertible_outputs_wgan_gp_128x64/samples/
+convertible_outputs_wgan_gp_128x64/synthetic_epoch_500/
+convertible_outputs_wgan_gp_128x64/*.png
+*.pt
+*.pth
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
